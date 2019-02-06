@@ -1,3 +1,9 @@
+Github:https://github.com/LeonChen66/hw-ruby-intro
+Name Li-Hen Chen
+UIN:928003907
+
+
+
 Ruby intro part 1
   #sum
     should be defined
